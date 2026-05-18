@@ -1,5 +1,13 @@
 # TOEFL Listen & Repeat Extractor
 
+If you have TOEFL Speaking exam audio recordings along with answer files in PDF, DOCX, or TXT format, and you find it difficult to maintain long-term practice of Listen & Repeat questions due to frequently switching files and opening multiple windows, try this technique!
+
+Simply tell your Agent: `The answers for TOEFL Speaking Listen & Repeat questions are in xxx.pdf, and the audio is xxx.mp3. Help me create Anki flashcards for inputting answers.` Your Agent will know how to operate, with batch mode support. Then, just import a single CSV file into Anki, and you can practice listening and repeating with real exam questions anytime, anywhere, following your personal forgetting curve. Isn't that simple? Give it a try!
+
+If you want to use the tool below but have no programming background, simply show `Readme.md` and `SKILL.md` to your Agent. It will confirm your needs during the conversation and generate the CSV file for you.
+
+If you still can't figure it out, refer to the CSV files and audio clips already extracted by the author (to be updated, will use cloud storage), and import them directly into Anki.
+
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
 
 > A tool for extracting TOEFL Speaking "Listen & Repeat" questions from exam audio and generating Anki flashcards.

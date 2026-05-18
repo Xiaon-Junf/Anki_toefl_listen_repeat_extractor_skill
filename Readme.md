@@ -1,5 +1,13 @@
 # TOEFL 听力复述题提取器 (TOEFL Listen & Repeat Extractor)
 
+如果你有托福口语考试的录音以及 PDF、DOCX 或 TXT 格式的答案，并且频繁切换文件和打开多个窗口让你难以保持长期能力练习复述问题，试试这个技巧！
+
+只需告诉你的Agent：`托福口语考试的复述问题答案位于 xxx.pdf，音频是 xxx.mp3。帮我创建 Anki 输入答案的问答题闪卡` 你的Agent就会知道如何操作，支持批量模式。然后，只需将一个 CSV 文件导入 Anki，你就可以随时随地使用真实的考试问题，根据你的个人遗忘曲线练习听力和复述能力。这不是很简单吗？试试吧！
+
+如果想要尝试自行使用下面的工具, 但不具备编程基础, 请你直接将 `Readme.md` 和 `SKILL.md` 丢给你的Agent看, 它会在跟你的对话中确认你的需求, 并生成CSV文件。
+
+如果实在不会使用, 可以参考作者已经提取出的CSV和听力文件 (待更新, 将使用云盘), 直接导入至 Anki 即可。
+
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
 
 > 一个用于从 TOEFL 口语考试音频中提取「听力复述题」(Listen & Repeat) 并生成 Anki 记忆卡片的工具。
