@@ -126,6 +126,12 @@ cmake --build build -j --config Release
 ### 本ツールのインストール
 
 ```bash
+npx add-skill https://github.com/Xiaon-Junf/Anki_toefl_listen_repeat_extractor_skill
+```
+
+または:
+
+```bash
 # 本リポジトリをクローン
 git clone https://github.com/Xiaon-Junf/Anki_toefl_listen_repeat_extractor_skill.git
 cd Anki_toefl_listen_repeat_extractor_skill

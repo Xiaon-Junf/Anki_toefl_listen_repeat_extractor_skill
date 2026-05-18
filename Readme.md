@@ -49,6 +49,12 @@
 
 ### 前置依赖
 
+请你先使用以下命令安装这几个skills (from anthropics), 不然你的Agent大概率不知道如何读取docx或pdf中的内容:
+```bash
+npx add-skill https://github.com/anthropics/skills/tree/main/skills/pdf
+npx add-skill https://github.com/anthropics/skills/tree/main/skills/docx
+```
+
 在运行本工具之前，请确保系统已安装以下命令行工具：
 
 | 工具 | 用途 | 安装方式 |
@@ -124,6 +130,12 @@ cmake --build build -j --config Release
 ```
 
 ### 安装本工具
+
+```bash
+npx add-skill https://github.com/Xiaon-Junf/Anki_toefl_listen_repeat_extractor_skill
+```
+
+或:
 
 ```bash
 # 克隆本仓库
