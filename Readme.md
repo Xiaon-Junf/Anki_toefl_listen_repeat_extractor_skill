@@ -10,7 +10,7 @@
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
 
-> 一个用于从 TOEFL 口语考试音频中提取「听力复述题」(Listen & Repeat) 并生成 Anki 记忆卡片的工具。
+> 一个用于从 TOEFL 口语考试音频中提取「听力复述题」(Listen & Repeat) 并生成 Anki 记忆卡片的工具。在Linux DO上推广，等待审核通过后修改此处的链接
 
 ---
 
